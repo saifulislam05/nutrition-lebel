@@ -1,10 +1,8 @@
 
 ## Project Description
 The Nutrition Label CSS project showcases a styled nutrition label typically found on food packaging. It uses HTML and CSS to create an informative and visually appealing nutrition facts display.
-
 ## UI
 ![image](https://github.com/saifulislam05/nutrition-lebel/assets/73392705/dc1bfa99-d88d-4a0a-a7b3-aa0585173be4)
-
 
 ## HTML Structure
 - `<h1>`: Represents the project title.
